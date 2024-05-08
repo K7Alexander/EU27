@@ -1,0 +1,71 @@
+{
+  "eu27_countries_alpha2_en_de": [
+    {
+      "group": "EU27_2020",
+      "short": "AT",
+      "en": "Austria",
+      "de": "Österreich"
+    },
+    { "group": "EU27_2020", "short": "BE", "en": "Belgium", "de": "Belgien" },
+    {
+      "group": "EU27_2020",
+      "short": "BG",
+      "en": "Bulgaria",
+      "de": "Bulgarien"
+    },
+    { "group": "EU27_2020", "short": "CY", "en": "Cyprus", "de": "Zypern" },
+    {
+      "group": "EU27_2020",
+      "short": "CZ",
+      "en": "Czech Republic",
+      "de": "Tschechien"
+    },
+    {
+      "group": "EU27_2020",
+      "short": "DE",
+      "en": "Germany",
+      "de": "Deutschland"
+    },
+    { "group": "EU27_2020", "short": "DK", "en": "Denmark", "de": "Dänemark" },
+    { "group": "EU27_2020", "short": "EE", "en": "Estonia", "de": "Estland" },
+    {
+      "group": "EU27_2020",
+      "short": "EL",
+      "en": "Greece",
+      "de": "Griechenland"
+    },
+    { "group": "EU27_2020", "short": "ES", "en": "Spain", "de": "Spanien" },
+    { "group": "EU27_2020", "short": "FI", "en": "Finland", "de": "Finnland" },
+    { "group": "EU27_2020", "short": "FR", "en": "France", "de": "Frankreich" },
+    { "group": "EU27_2020", "short": "HR", "en": "Croatia", "de": "Kroatien" },
+    { "group": "EU27_2020", "short": "HU", "en": "Hungary", "de": "Ungarn" },
+    { "group": "EU27_2020", "short": "IE", "en": "Ireland", "de": "Irland" },
+    { "group": "EU27_2020", "short": "IT", "en": "Italy", "de": "Italien" },
+    { "group": "EU27_2020", "short": "LT", "en": "Lithuania", "de": "Litauen" },
+    {
+      "group": "EU27_2020",
+      "short": "LU",
+      "en": "Luxembourg",
+      "de": "Luxemburg"
+    },
+    { "group": "EU27_2020", "short": "LV", "en": "Latvia", "de": "Lettland" },
+    { "group": "EU27_2020", "short": "MT", "en": "Malta", "de": "Malta" },
+    {
+      "group": "EU27_2020",
+      "short": "NL",
+      "en": "Netherlands",
+      "de": "Niederlande"
+    },
+    { "group": "EU27_2020", "short": "PL", "en": "Poland", "de": "Polen" },
+    { "group": "EU27_2020", "short": "PT", "en": "Portugal", "de": "Portugal" },
+    { "group": "EU27_2020", "short": "RO", "en": "Romania", "de": "Rumänien" },
+    { "group": "EU27_2020", "short": "SE", "en": "Sweden", "de": "Schweden" },
+    {
+      "group": "EU27_2020",
+      "short": "SI",
+      "en": "Slovenia",
+      "de": "Slowenien"
+    },
+    { "group": "EU27_2020", "short": "SK", "en": "Slovakia", "de": "Slowakei" }
+  ]
+}
